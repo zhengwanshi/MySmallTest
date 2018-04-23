@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.example.appmain"
+    },
+    {
+
+      "pkg": "com.example.libnetwork"
+    },
+    {
+      "uri": "search",
+      "pkg": "com.example.appsearch"
+    }
+  ]
+}

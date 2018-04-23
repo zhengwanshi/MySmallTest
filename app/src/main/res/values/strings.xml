@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">MySmallTest</string>
+  <!--引导页-->
+  <string name="welcom_head_01">来慕课网学习吧</string>
+  <string name="welcom_content_01">来慕课网你可以学到任何你想学的知识.</string>
+  <string name="welcom_head_02">学会分享</string>
+  <string name="welcom_content_02">分享即可以帮助他人,也可以提升自己,何乐而不为.</string>
+  <string name="welcom_head_03">学会利用网络</string>
+  <string name="welcom_content_03">通过互联网,可以学到任何我们想学的知识,所以你要利用好.</string>
+  <string name="welcom_head_04">提高效率,少熬夜</string>
+  <string name="welcom_content_04">设法提高我们的工作效率,而不是延长我们的工作时间.</string>
+
+</resources>
